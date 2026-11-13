@@ -6,6 +6,9 @@
 
 ## 1. Project Overview
 
+
+
+
 A robust, production-ready RESTful API and minimal functional frontend for a **Secure Note-Taking Application** with role-based access control (RBAC), database indexing optimizations, and targeted MongoDB aggregation pipelines.
 
 Designed for seamless deployment to **Vercel** via automated **GitHub Actions CI/CD workflows**.
